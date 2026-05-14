@@ -13,7 +13,7 @@ clinica-pets/
 ├── README.md
 └── src/main/
     ├── resources/
-    │   └── banco.properties   # Coloque suas credenciais aqui
+    │   └── banco.properties 
     └── java/com/clinica/
         ├── model/             # Tutor · Pet · Consulta
         ├── dao/               # ConexaoDB · TutorDAO · PetDAO · ConsultaDAO
